@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="db1b6f2c-a283-4745-badb-72d643daf250" name="sgcm1@DESKTOP-IPSERGE 2026-10-17 11:53:03" runUser="DESKTOP-IPSERGE\sgcm1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-10-17T11:53:03.6535797+03:00" queuing="2026-10-17T11:53:03.6535799+03:00" start="2026-10-17T11:53:03.1044888+03:00" finish="2026-10-17T11:53:03.6964073+03:00" />
+  <TestSettings name="default" id="c35a6661-685f-43db-8e53-b68b6d54b4f8">
+    <Deployment runDeploymentRoot="sgcm1_DESKTOP-IPSERGE_2026-10-17_11_53_03" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a455f5d0-01c4-415f-9931-ca2c5ab08563" testId="c265e55c-a79b-ef92-cb49-6af33fa57514" testName="LoyaltyDiscount_RoundsAwayFromZero" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000663" startTime="2026-10-17T11:53:03.5771890+03:00" endTime="2026-10-17T11:53:03.5772871+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a455f5d0-01c4-415f-9931-ca2c5ab08563" />
+    <UnitTestResult executionId="2095b772-8a8a-4a1f-b6fd-d71766184d08" testId="c674323f-27c9-7384-9dfb-9b86368d7510" testName="Subtotal6000_DiscountIs5Percent" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000928" startTime="2026-10-17T11:53:03.5516829+03:00" endTime="2026-10-17T11:53:03.5518749+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2095b772-8a8a-4a1f-b6fd-d71766184d08" />
+    <UnitTestResult executionId="ed583b52-e12a-48d4-94fb-060d13db5462" testId="8933689b-6dbc-060f-df05-4ae0142c2055" testName="ExpressDeliveryBelow4000_Costs500" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000364" startTime="2026-10-17T11:53:03.5769327+03:00" endTime="2026-10-17T11:53:03.5769961+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed583b52-e12a-48d4-94fb-060d13db5462" />
+    <UnitTestResult executionId="b0347cf1-424e-4da9-bb1b-b4abb1a63b95" testId="690dbf77-8837-20ab-da82-ab4853b9c662" testName="ZeroSubtotal_RegularDeliveryCosts300" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000430" startTime="2026-10-17T11:53:03.5374343+03:00" endTime="2026-10-17T11:53:03.5375046+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0347cf1-424e-4da9-bb1b-b4abb1a63b95" />
+    <UnitTestResult executionId="419984b6-d6aa-4a27-b9c7-e9f515945753" testId="81496233-867a-a9db-f960-608251ddad92" testName="LoyaltyDiscount_DoesNotApplyToDelivery" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000381" startTime="2026-10-17T11:53:03.5772964+03:00" endTime="2026-10-17T11:53:03.5778852+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="419984b6-d6aa-4a27-b9c7-e9f515945753" />
+    <UnitTestResult executionId="b677b65f-08ea-4dde-b795-4c9ba928b08b" testId="9ae28efa-5275-3391-20fb-e57825a11c91" testName="LoyaltyWithSmallSubtotal_DiscountIs10Percent" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000605" startTime="2026-10-17T11:53:03.5518927+03:00" endTime="2026-10-17T11:53:03.5519921+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b677b65f-08ea-4dde-b795-4c9ba928b08b" />
+    <UnitTestResult executionId="1d324784-b524-41ef-87a5-8d12bde0ecd8" testId="f935902b-1eb1-2fcc-9e2a-d1af0c874e0e" testName="RegularDeliveryBelow4000_Costs300" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000739" startTime="2026-10-17T11:53:03.5767177+03:00" endTime="2026-10-17T11:53:03.5768343+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1d324784-b524-41ef-87a5-8d12bde0ecd8" />
+    <UnitTestResult executionId="6b7e17f0-fe61-4ce8-9bbe-2305928f79a5" testId="0b528956-4e66-f578-f0f2-16e3ad1129f8" testName="SubtotalBelow5000_NoDiscount" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000372" startTime="2026-10-17T11:53:03.5375204+03:00" endTime="2026-10-17T11:53:03.5375837+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b7e17f0-fe61-4ce8-9bbe-2305928f79a5" />
+    <UnitTestResult executionId="2f55ceb4-e155-4640-8db8-d2af556b1025" testId="ea0295bb-456d-6c8b-b34d-98113ee867e4" testName="LoyaltyAndLargeSubtotal_Only10PercentDiscount" computerName="DESKTOP-IPSERGE" duration="00:00:00.0003158" startTime="2026-10-17T11:53:03.5762591+03:00" endTime="2026-10-17T11:53:03.5766779+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f55ceb4-e155-4640-8db8-d2af556b1025">
+      <Output>
+        <ErrorInfo>
+          <Message>Сбой Assert.AreEqual. Ожидается: &lt;5400&gt;. Фактически: &lt;5100,00&gt;. </Message>
+          <StackTrace>   at OrderPricing.Tests.PriceCalculatorTests.LoyaltyAndLargeSubtotal_Only10PercentDiscount() in C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\PriceCalculatorTests.cs:line 77&#xD;
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="890d72b0-536f-4deb-851e-61bfe02c9a8e" testId="f1162bb7-d75d-3049-9a15-efc939b2d84f" testName="RegularOrder_1000WithoutLoyalty_TotalIs1300" computerName="DESKTOP-IPSERGE" duration="00:00:00.0063748" startTime="2026-10-17T11:53:03.4659600+03:00" endTime="2026-10-17T11:53:03.5330690+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="890d72b0-536f-4deb-851e-61bfe02c9a8e" />
+    <UnitTestResult executionId="29b5c2f2-041b-44ea-b68e-840dea52bbef" testId="1a1abc6f-486f-84c5-a79d-e032466354b8" testName="SubtotalOver100000_ThrowsException" computerName="DESKTOP-IPSERGE" duration="00:00:00.0001227" startTime="2026-10-17T11:53:03.5371290+03:00" endTime="2026-10-17T11:53:03.5373061+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29b5c2f2-041b-44ea-b68e-840dea52bbef" />
+    <UnitTestResult executionId="b0ec093d-7f2b-4048-aafb-ba89ea4ae4df" testId="73ea2dc0-1b05-e902-c38c-d4e52a3ef64a" testName="NegativeSubtotal_ThrowsException" computerName="DESKTOP-IPSERGE" duration="00:00:00.0006828" startTime="2026-10-17T11:53:03.5360972+03:00" endTime="2026-10-17T11:53:03.5369441+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0ec093d-7f2b-4048-aafb-ba89ea4ae4df" />
+    <UnitTestResult executionId="f692fa90-7030-4571-9012-bf185380f344" testId="e34c1741-0a4d-c749-befb-3a8718d138d5" testName="Subtotal5000_DiscountIs5Percent" computerName="DESKTOP-IPSERGE" duration="00:00:00.0136200" startTime="2026-10-17T11:53:03.5375919+03:00" endTime="2026-10-17T11:53:03.5515732+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f692fa90-7030-4571-9012-bf185380f344">
+      <Output>
+        <ErrorInfo>
+          <Message>Сбой Assert.AreEqual. Ожидается: &lt;4750&gt;. Фактически: &lt;5000&gt;. </Message>
+          <StackTrace>   at OrderPricing.Tests.PriceCalculatorTests.Subtotal5000_DiscountIs5Percent() in C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\PriceCalculatorTests.cs:line 56&#xD;
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3a6218d3-47dd-4130-8acc-882918a99515" testId="7830d56d-ab46-c8fe-eb00-01cc8b1b7ea7" testName="RegularDeliveryAt4000_IsFree" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000448" startTime="2026-10-17T11:53:03.5768504+03:00" endTime="2026-10-17T11:53:03.5769245+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a6218d3-47dd-4130-8acc-882918a99515" />
+    <UnitTestResult executionId="3640ea0f-dc5f-41cf-a1f4-d98707e992b3" testId="1114cfa4-7938-88e0-30e7-c8d1cfcce1ef" testName="ExpressDeliveryAbove4000_Costs500" computerName="DESKTOP-IPSERGE" duration="00:00:00.0001495" startTime="2026-10-17T11:53:03.5770031+03:00" endTime="2026-10-17T11:53:03.5771773+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3640ea0f-dc5f-41cf-a1f4-d98707e992b3">
+      <Output>
+        <ErrorInfo>
+          <Message>Сбой Assert.AreEqual. Ожидается: &lt;6200&gt;. Фактически: &lt;5700,00&gt;. </Message>
+          <StackTrace>   at OrderPricing.Tests.PriceCalculatorTests.ExpressDeliveryAbove4000_Costs500() in C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\PriceCalculatorTests.cs:line 105&#xD;
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4d89f3cb-deeb-4162-a928-ef95abd1ac17" testId="002924a9-a4c3-8f1c-bc64-f8a196d64969" testName="Subtotal100000_IsAllowed" computerName="DESKTOP-IPSERGE" duration="00:00:00.0000617" startTime="2026-10-17T11:53:03.5373223+03:00" endTime="2026-10-17T11:53:03.5374229+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d89f3cb-deeb-4162-a928-ef95abd1ac17" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="LoyaltyAndLargeSubtotal_Only10PercentDiscount" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="ea0295bb-456d-6c8b-b34d-98113ee867e4">
+      <Execution id="2f55ceb4-e155-4640-8db8-d2af556b1025" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="LoyaltyAndLargeSubtotal_Only10PercentDiscount" />
+    </UnitTest>
+    <UnitTest name="RegularOrder_1000WithoutLoyalty_TotalIs1300" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="f1162bb7-d75d-3049-9a15-efc939b2d84f">
+      <Execution id="890d72b0-536f-4deb-851e-61bfe02c9a8e" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="RegularOrder_1000WithoutLoyalty_TotalIs1300" />
+    </UnitTest>
+    <UnitTest name="Subtotal6000_DiscountIs5Percent" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="c674323f-27c9-7384-9dfb-9b86368d7510">
+      <Execution id="2095b772-8a8a-4a1f-b6fd-d71766184d08" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="Subtotal6000_DiscountIs5Percent" />
+    </UnitTest>
+    <UnitTest name="Subtotal100000_IsAllowed" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="002924a9-a4c3-8f1c-bc64-f8a196d64969">
+      <Execution id="4d89f3cb-deeb-4162-a928-ef95abd1ac17" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="Subtotal100000_IsAllowed" />
+    </UnitTest>
+    <UnitTest name="NegativeSubtotal_ThrowsException" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="73ea2dc0-1b05-e902-c38c-d4e52a3ef64a">
+      <Execution id="b0ec093d-7f2b-4048-aafb-ba89ea4ae4df" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="NegativeSubtotal_ThrowsException" />
+    </UnitTest>
+    <UnitTest name="LoyaltyDiscount_DoesNotApplyToDelivery" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="81496233-867a-a9db-f960-608251ddad92">
+      <Execution id="419984b6-d6aa-4a27-b9c7-e9f515945753" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="LoyaltyDiscount_DoesNotApplyToDelivery" />
+    </UnitTest>
+    <UnitTest name="ZeroSubtotal_RegularDeliveryCosts300" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="690dbf77-8837-20ab-da82-ab4853b9c662">
+      <Execution id="b0347cf1-424e-4da9-bb1b-b4abb1a63b95" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="ZeroSubtotal_RegularDeliveryCosts300" />
+    </UnitTest>
+    <UnitTest name="LoyaltyWithSmallSubtotal_DiscountIs10Percent" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="9ae28efa-5275-3391-20fb-e57825a11c91">
+      <Execution id="b677b65f-08ea-4dde-b795-4c9ba928b08b" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="LoyaltyWithSmallSubtotal_DiscountIs10Percent" />
+    </UnitTest>
+    <UnitTest name="LoyaltyDiscount_RoundsAwayFromZero" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="c265e55c-a79b-ef92-cb49-6af33fa57514">
+      <Execution id="a455f5d0-01c4-415f-9931-ca2c5ab08563" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="LoyaltyDiscount_RoundsAwayFromZero" />
+    </UnitTest>
+    <UnitTest name="SubtotalBelow5000_NoDiscount" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="0b528956-4e66-f578-f0f2-16e3ad1129f8">
+      <Execution id="6b7e17f0-fe61-4ce8-9bbe-2305928f79a5" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="SubtotalBelow5000_NoDiscount" />
+    </UnitTest>
+    <UnitTest name="SubtotalOver100000_ThrowsException" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="1a1abc6f-486f-84c5-a79d-e032466354b8">
+      <Execution id="29b5c2f2-041b-44ea-b68e-840dea52bbef" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="SubtotalOver100000_ThrowsException" />
+    </UnitTest>
+    <UnitTest name="ExpressDeliveryAbove4000_Costs500" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="1114cfa4-7938-88e0-30e7-c8d1cfcce1ef">
+      <Execution id="3640ea0f-dc5f-41cf-a1f4-d98707e992b3" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="ExpressDeliveryAbove4000_Costs500" />
+    </UnitTest>
+    <UnitTest name="ExpressDeliveryBelow4000_Costs500" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="8933689b-6dbc-060f-df05-4ae0142c2055">
+      <Execution id="ed583b52-e12a-48d4-94fb-060d13db5462" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="ExpressDeliveryBelow4000_Costs500" />
+    </UnitTest>
+    <UnitTest name="RegularDeliveryBelow4000_Costs300" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="f935902b-1eb1-2fcc-9e2a-d1af0c874e0e">
+      <Execution id="1d324784-b524-41ef-87a5-8d12bde0ecd8" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="RegularDeliveryBelow4000_Costs300" />
+    </UnitTest>
+    <UnitTest name="RegularDeliveryAt4000_IsFree" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="7830d56d-ab46-c8fe-eb00-01cc8b1b7ea7">
+      <Execution id="3a6218d3-47dd-4130-8acc-882918a99515" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="RegularDeliveryAt4000_IsFree" />
+    </UnitTest>
+    <UnitTest name="Subtotal5000_DiscountIs5Percent" storage="c:\users\sgcm1\onedrive\desktop\tests\unit-testing-student\tests\orderpricing.tests\bin\debug\net8.0\orderpricing.tests.dll" id="e34c1741-0a4d-c749-befb-3a8718d138d5">
+      <Execution id="f692fa90-7030-4571-9012-bf185380f344" />
+      <TestMethod codeBase="C:\Users\sgcm1\OneDrive\Desktop\Tests\unit-testing-student\tests\OrderPricing.Tests\bin\Debug\net8.0\OrderPricing.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="OrderPricing.Tests.PriceCalculatorTests" name="Subtotal5000_DiscountIs5Percent" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="c265e55c-a79b-ef92-cb49-6af33fa57514" executionId="a455f5d0-01c4-415f-9931-ca2c5ab08563" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c674323f-27c9-7384-9dfb-9b86368d7510" executionId="2095b772-8a8a-4a1f-b6fd-d71766184d08" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8933689b-6dbc-060f-df05-4ae0142c2055" executionId="ed583b52-e12a-48d4-94fb-060d13db5462" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="690dbf77-8837-20ab-da82-ab4853b9c662" executionId="b0347cf1-424e-4da9-bb1b-b4abb1a63b95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81496233-867a-a9db-f960-608251ddad92" executionId="419984b6-d6aa-4a27-b9c7-e9f515945753" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ae28efa-5275-3391-20fb-e57825a11c91" executionId="b677b65f-08ea-4dde-b795-4c9ba928b08b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f935902b-1eb1-2fcc-9e2a-d1af0c874e0e" executionId="1d324784-b524-41ef-87a5-8d12bde0ecd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0b528956-4e66-f578-f0f2-16e3ad1129f8" executionId="6b7e17f0-fe61-4ce8-9bbe-2305928f79a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea0295bb-456d-6c8b-b34d-98113ee867e4" executionId="2f55ceb4-e155-4640-8db8-d2af556b1025" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1162bb7-d75d-3049-9a15-efc939b2d84f" executionId="890d72b0-536f-4deb-851e-61bfe02c9a8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1a1abc6f-486f-84c5-a79d-e032466354b8" executionId="29b5c2f2-041b-44ea-b68e-840dea52bbef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="73ea2dc0-1b05-e902-c38c-d4e52a3ef64a" executionId="b0ec093d-7f2b-4048-aafb-ba89ea4ae4df" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e34c1741-0a4d-c749-befb-3a8718d138d5" executionId="f692fa90-7030-4571-9012-bf185380f344" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7830d56d-ab46-c8fe-eb00-01cc8b1b7ea7" executionId="3a6218d3-47dd-4130-8acc-882918a99515" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1114cfa4-7938-88e0-30e7-c8d1cfcce1ef" executionId="3640ea0f-dc5f-41cf-a1f4-d98707e992b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="002924a9-a4c3-8f1c-bc64-f8a196d64969" executionId="4d89f3cb-deeb-4162-a928-ef95abd1ac17" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Список результатов" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="16" executed="16" passed="13" failed="3" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
